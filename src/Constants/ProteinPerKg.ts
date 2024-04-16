@@ -1,0 +1,1 @@
+export const ProteinPerKg = 2.4;
